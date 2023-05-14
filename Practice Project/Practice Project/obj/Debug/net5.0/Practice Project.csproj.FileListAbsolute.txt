@@ -1,0 +1,16 @@
+E:\Asp.net Core Project\Practice Project\Practice Project\bin\Debug\net5.0\Practice Project.exe
+E:\Asp.net Core Project\Practice Project\Practice Project\bin\Debug\net5.0\Practice Project.deps.json
+E:\Asp.net Core Project\Practice Project\Practice Project\bin\Debug\net5.0\Practice Project.runtimeconfig.json
+E:\Asp.net Core Project\Practice Project\Practice Project\bin\Debug\net5.0\Practice Project.runtimeconfig.dev.json
+E:\Asp.net Core Project\Practice Project\Practice Project\bin\Debug\net5.0\Practice Project.dll
+E:\Asp.net Core Project\Practice Project\Practice Project\bin\Debug\net5.0\Practice Project.pdb
+E:\Asp.net Core Project\Practice Project\Practice Project\obj\Debug\net5.0\Practice Project.csproj.AssemblyReference.cache
+E:\Asp.net Core Project\Practice Project\Practice Project\obj\Debug\net5.0\Practice Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.net Core Project\Practice Project\Practice Project\obj\Debug\net5.0\Practice Project.AssemblyInfoInputs.cache
+E:\Asp.net Core Project\Practice Project\Practice Project\obj\Debug\net5.0\Practice Project.AssemblyInfo.cs
+E:\Asp.net Core Project\Practice Project\Practice Project\obj\Debug\net5.0\Practice Project.csproj.CoreCompileInputs.cache
+E:\Asp.net Core Project\Practice Project\Practice Project\obj\Debug\net5.0\Practice Project.dll
+E:\Asp.net Core Project\Practice Project\Practice Project\obj\Debug\net5.0\refint\Practice Project.dll
+E:\Asp.net Core Project\Practice Project\Practice Project\obj\Debug\net5.0\Practice Project.pdb
+E:\Asp.net Core Project\Practice Project\Practice Project\obj\Debug\net5.0\Practice Project.genruntimeconfig.cache
+E:\Asp.net Core Project\Practice Project\Practice Project\obj\Debug\net5.0\ref\Practice Project.dll
